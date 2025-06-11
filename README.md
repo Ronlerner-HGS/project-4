@@ -1,5 +1,10 @@
 software used to create code report ~ [obisidian](https://obsidian.md/)
 
+## Quick Start
+
+    [**Setup Tutorial**](TUTORIAL.md)
+
+---
 
 ## **Model Performance Results:**
 
