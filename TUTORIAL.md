@@ -288,4 +288,4 @@ Question 1/8: Which IB subject are you studying?
 
 ---
 
-*This tutorial was created to make the IB Study Hours Prediction system accessible to everyone. Happy studying! 🎓*
+*made by ai*
