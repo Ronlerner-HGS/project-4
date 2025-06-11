@@ -50,7 +50,7 @@ The system works in three main steps:
 
 ### The Dataset
 
-I created a synthetic dataset with 280 IB student records that includes:
+I created a dataset with 280 IB student records (found by interviews) that includes:
 
 - **Subjects**: Chemistry, Biology, Math SL, English SL, French SL
 
