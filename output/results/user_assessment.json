@@ -1,0 +1,14 @@
+{
+  "subject": "chemistry",
+  "previous_grade": 6,
+  "difficulty_rating": 5,
+  "study_efficiency": 5,
+  "time_management": 5,
+  "content_familiarity": 5,
+  "stress_level": 5,
+  "sleep_hours": 8.0,
+  "days_available": 5,
+  "exam_weight": 30,
+  "confidence_level": 5,
+  "study_method": "flashcards"
+}
