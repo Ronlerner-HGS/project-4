@@ -1,8 +1,7 @@
 software used to create code report ~ [obisidian](https://obsidian.md/)
 
-## Quick Start
 
-    [**Setup Tutorial**](TUTORIAL.md)
+**Google collab may be added soon for better ease of use** → [**Setup Tutorial**](TUTORIAL.md) - Complete step-by-step guide to get started!
 
 ---
 
